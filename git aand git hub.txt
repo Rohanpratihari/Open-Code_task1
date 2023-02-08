@@ -1,0 +1,16 @@
+Q1) Explain briefly the difference between git and github.
+ans) Git is a tool that is used to manage multiple versions of source code edits that are then transferred to files in a git repository.
+git hub is a platform of online software devlopment which stores our data,and it serves as a location for uploading copies of a git repository.
+Q2) explain briefly any 5 git commands.
+ 1)git --version : shows the version of git u r using
+ 2)git config --global user.name "ur name here" : if u mae any change in any open source code then anu other person can see that u have changed it .
+with this u can give ur name/user id, so other person can recognise u/
+ 3)git config --user.email "ur email id" : used to give the ur email id and upload it in the github so if any change is made by u then other person can recognise that this work is done by u .
+ 4)git config --global --edit : command is used to edit the file .
+ 5)mkdir : make a new folder or directory.
+ 6)cd : used to change the directory i.e enter the directory.
+ 7) git init : used to make your directory or selected directory as ur git repository.
+ 8)git status: used to track any activity/modifications done in the repository.
+ 9)git add "file name" : used to track any selected file.
+Q3) how to make a pull request in github.
+ans)since pull requests lets you tell others about the changes you have pushed to a branch in a repository on Github. So the first step is creating a repository and thren cloning it to your device so that u can work on it locally.for creating clone locally we use the command "git clone 'link of your repository'". And then just create a new branch  as it lets u contributing to group work.and thus your pull request is done.
